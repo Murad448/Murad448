@@ -4,7 +4,7 @@
 
 Hi There, I’m Murad and i am Front & back -End Web Developer. It's been 6 month, I’m working as web developer at Laten Soft . I have developed some website and also provided my services to college students by getting their projects ready ASAP as a freelancer I have been part of some very good web design projects.
 
-I have done my graduation in Computer Science.
+I have done my graduation in Computer Science and Engineering .
 
 My Skill Set : HTML5, CSS3, JavaScript, PHP, Laravel framework .
 
